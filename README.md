@@ -1,2 +1,2 @@
 # Interview-DataStructure-Algorithm
-Coding Repository For Interview Preparation
+Coding Repository For Interview Preperation
